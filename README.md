@@ -1,5 +1,7 @@
 # Global Remote Work & Salary Analytics Dashboard
 
+## Dashboard Preview
+
 <img width="1357" height="736" alt="image" src="https://github.com/user-attachments/assets/41974f66-010e-49cb-82e7-662d8825e6b0" />
 
 ## Project Overview
@@ -137,9 +139,16 @@ Top paying roles identified:
 
 ---
 
-## Dashboard Preview
+## Portfolio Value
 
-(Add screenshots here)
+This project demonstrates:
+
+Data Cleaning (Power Query)
+Data Modeling
+DAX
+Dashboard Design
+Business Analysis
+Data Storytelling
 
 ---
 
